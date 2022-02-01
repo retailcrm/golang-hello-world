@@ -35,9 +35,9 @@ Account `qweqwe123123` not found.
 2. Результат оформите в виде GitHub-репозитория и пришлите нам ссылкой
 
 # Полезные материалы
-- [общее описание REST API GitHub](https://docs.github.com/en/rest) 
-- [метод для получения списка репозиториев](https://docs.github.com/en/rest/reference/repos)
-- [метод для получения списка релизов](https://docs.github.com/en/rest/reference/releases) 
+- [Общее описание REST API GitHub](https://docs.github.com/en/rest) 
+- [Метод для получения списка репозиториев](https://docs.github.com/en/rest/reference/repos)
+- [Метод для получения списка релизов](https://docs.github.com/en/rest/reference/releases) 
 
 # Что для нас важно
 Мы смотрим на полноту реализации, качество реализации с точки зрения дальнейшей поддержки утилиты и продуманность с точки зрения граничных кейсов.
